@@ -1,0 +1,10 @@
+{
+    "widget":{
+        "name":"popUP",
+        "short_description":"короткое описание",
+        "description":"Длииииииииинное описание<br><hr>#API_HASH#"
+    },
+    "settings":{
+        "api_key":"Ключ API"
+    }
+}

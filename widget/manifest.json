@@ -1,0 +1,27 @@
+{
+    "widget":{
+            "name": "widget.name",
+            "description": "widget.description",
+            "short_description": "widget.short_description",
+            "code": "popup",
+            "secret_key": "f185a41a89bc2168c4ae883cb5a7b395e84894ef0a8c2595a20e66c82f026f6c",
+            "version": "1.0.1",
+            "interface_version": 2,
+            "init_once": false,
+            "locale":[
+                    "ru"
+                    ],
+            "installation": true
+            },
+    "locations":[
+            "lcard-1",
+            "settings"
+            ],
+    "settings":{
+                "api_key":{
+                        "name": "settings.api_key",
+                        "type": "text",
+                        "required": true
+                        }
+            }
+}
